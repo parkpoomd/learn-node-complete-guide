@@ -1,9 +1,1 @@
-[
-  {
-    "id": "12345678",
-    "title": "test",
-    "imageUrl": "https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "description": "test",
-    "price": "200"
-  }
-]
+[{"id":"12345678","title":"test","imageUrl":"https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500","description":"test","price":"200"},{"title":"Another","imageUrl":"https://www.fieldandstream.com/resizer/n1WobKP4BkRqkJ22kuP6QqqGNGI=/1034x776/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/FPSAREIEOLW5ETGADTL4VQHNKI.jpg","description":"","price":"30.08","id":"0.8499231769979501"}]
